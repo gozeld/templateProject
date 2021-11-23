@@ -1,4 +1,4 @@
-package api.testBase;
+package com.gpc.api.testBase;
 
 public class APITestBase {
 

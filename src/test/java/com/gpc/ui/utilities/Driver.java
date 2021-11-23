@@ -1,4 +1,4 @@
-package com.ui.utilities;
+package com.gpc.ui.utilities;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;

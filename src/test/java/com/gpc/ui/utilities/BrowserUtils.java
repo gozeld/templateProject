@@ -1,4 +1,4 @@
-package com.ui.utilities;
+package com.gpc.ui.utilities;
 
 public class BrowserUtils {
 

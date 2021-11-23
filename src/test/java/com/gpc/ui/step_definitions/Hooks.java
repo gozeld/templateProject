@@ -1,6 +1,6 @@
-package com.ui.step_definitions;
+package com.gpc.ui.step_definitions;
 
-import com.ui.utilities.Driver;
+import com.gpc.ui.utilities.Driver;
 import cucumber.api.Scenario;
 import org.junit.After;
 import org.openqa.selenium.OutputType;

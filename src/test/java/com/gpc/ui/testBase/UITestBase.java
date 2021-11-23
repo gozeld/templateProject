@@ -1,4 +1,4 @@
-package com.ui.testBase;
+package com.gpc.ui.testBase;
 
 public class UITestBase {
 

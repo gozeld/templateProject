@@ -1,0 +1,38 @@
+common:
+  dataFile: CSV
+  browser: CHROME
+  waitTime: 5000
+  proxyUrl: http://localhost:8081
+  winAppDriverPath : C:\Program Files (x86)\Windows Application Driver\WinAppDriver.exe
+  winAppDriveHost : http://127.0.0.1:4723
+  services:
+  queues:
+
+ephemeral:
+  ui:
+    url:
+    username:
+    password:
+  amq:
+    broker:
+    username:
+    password:
+
+  db2:
+    db2URL:
+    username:
+    password:
+
+  api:
+    baseURL: https://portal.nexient.com/
+
+integration:
+  ui:
+    url:
+    username:
+    password:
+
+  api:
+    baseURL:
+    username:
+    password:
